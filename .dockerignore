@@ -3,6 +3,8 @@
 .cache
 .idea
 runs
+output
+coco
 storage.googleapis.com
 
 data/samples/*
